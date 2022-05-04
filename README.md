@@ -16,5 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img  src = "https://github-readme-stats.vercel.app/api?username=jessoliva&theme=highcontrast&show_icons=true&count_private=true">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=omni&show_icons=true&count_private=true">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=material-palenight&show_icons=true&count_private=true">
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&theme=material-palenight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=material-palenight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&theme=omni">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=omni">
 </p>
