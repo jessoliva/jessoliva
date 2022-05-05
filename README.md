@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm Jess 👋
+Hi there, I'm Jess <img src="./assets/hi.gif" width="30px">
 </h2>
 
 <h3 align="center">
