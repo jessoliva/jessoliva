@@ -1,7 +1,6 @@
 <h2 align="center">
-Hi there, I'm Jess <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<img src="https://raw.githubusercontent.com/JessOliva/JessOliva/master/hi.gif" width="30px">
+Hi there, I'm Jess <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="30px">
 </h2>
 
 <h3 align="center">
@@ -17,7 +16,11 @@ I'm a Forensic Building engineer 🏬 &ensp;|&ensp;Full-Stack Web Developer 💻
 <img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=nightowl&show_icons=true&count_private=true">
 </p>
 
+
+
 <!--
+https://raw.githubusercontent.com/<User>/<Repository>/<branch>/<path/to/gif>
+
 **jessoliva/jessoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
