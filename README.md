@@ -1,5 +1,7 @@
 <h2 align="center">
-Hi there, I'm Jess <img src="./assets/hi.gif" width="30px">
+Hi there, I'm Jess <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img src="https://raw.githubusercontent.com/JessOliva/JessOliva/master/hi.gif" width="30px">
 </h2>
 
 <h3 align="center">
