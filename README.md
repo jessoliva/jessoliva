@@ -3,12 +3,12 @@ Hi there, I'm Jess <img src="https://raw.githubusercontent.com/jessoliva/jessoli
 </h2>
 
 <h3 align="center">
+I'm a Forensic Building engineer 🏬 &ensp;|&ensp;Full-Stack Web Developer 💻 &ensp;|&ensp;Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Lover of animals and plants 🌱
+
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="80px">
-
-I'm a Forensic Building engineer 🏬 &ensp;|&ensp;Full-Stack Web Developer 💻 &ensp;|&ensp;Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Lover of animals and plants 🌱
 </h3> 
 
 <h2 align="center">
