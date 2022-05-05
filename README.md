@@ -1,14 +1,14 @@
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm Jess 👋
-</h3>
+</h2>
+
+<h3 align="center">
+I'm a Forensic Building engineer 🏬, Full-Stack Web Developer 💻,, Weightlifter 🏋🏽‍♀️, and a lover of animals and plants 🌱
+</h3> 
 
 <h2 align="center">
-I'm a Forensic Building engineer 🏬, Full-Stack Web Developer 💻,, Weightlifter 🏋🏽‍♀️, and a lover of animals and plants 🌱
-</h2> 
-
-<h3 align="center">
 📈 GitHub Stats 
-</h3>
+</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=nightowl">
 
