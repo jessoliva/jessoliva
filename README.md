@@ -3,7 +3,7 @@ Hi there, I'm Jess 👋
 </h2>
 
 <h3 align="center">
-I'm a Forensic Building engineer 🏬, Full-Stack Web Developer 💻,, Weightlifter 🏋🏽‍♀️, and a lover of animals and plants 🌱
+I'm a Forensic Building engineer 🏬 | Full-Stack Web Developer 💻 | Weightlifter 🏋🏽‍♀️ | Lover of animals and plants 🌱
 </h3> 
 
 <h2 align="center">
