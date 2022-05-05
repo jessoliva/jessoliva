@@ -1,4 +1,19 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Jess 👋
+</h3>
+
+<h2 align="center">
+I'm a Forensic Building engineer 🏬, Full-Stack Web Developer 💻,, Weightlifter 🏋🏽‍♀️, and a lover of animals and plants 🌱
+</h2> 
+
+<h3 align="center">
+📈 GitHub Stats 
+</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=nightowl">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=nightowl&show_icons=true&count_private=true">
+</p>
 
 <!--
 **jessoliva/jessoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=omni">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=omni&show_icons=true&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=nightowl&show_icons=true&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=dracula&show_icons=true&count_private=true">
-</p>
