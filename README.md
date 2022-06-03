@@ -10,9 +10,9 @@ Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Lover of learning, animals, and plan
 
 </br>
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="80px">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="80px">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="100px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="18%">
 </h3> 
 
 <h2 align="center">
