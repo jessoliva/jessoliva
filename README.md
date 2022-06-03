@@ -7,6 +7,11 @@ Hi there, I'm Jess
 Forensic Building Engineer 🏬 &ensp;-->&ensp;Full-Stack Web Developer 💻 
 </br>
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plants 🌱
+</br>
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="18%">
 
 <h2 align="center">
 Technologies
@@ -22,11 +27,6 @@ Technologies
 <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia&logoColor=4000BF" /></a>&ensp;
 </p>
 
-</br>
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="18%">
 </h3> 
 
 <h2 align="center">
