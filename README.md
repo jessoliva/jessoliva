@@ -9,11 +9,11 @@ Forensic Building engineer 🏬 &ensp;|&ensp;Full-Stack Web Developer 💻
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Lover of learning, animals, and plants 🌱
 
 </br>
-<!-- <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="80px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="80px">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="100px">
-</h3>  -->
+</h3> 
 
 <h2 align="center">
 📈 GitHub Stats 
