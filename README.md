@@ -1,6 +1,6 @@
 <h2 align="center">
 Hi there, I'm Jess
-<!--  <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/hi.gif" width="10px"> -->
+ <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/hi.gif" width="4%">
 </h2>
 
 <h3 align="center">
