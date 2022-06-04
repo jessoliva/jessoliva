@@ -6,7 +6,7 @@ Hi there, I'm Jess
 From Forensic Building Engineer 🏬 &ensp;to Full-Stack Web Developer 💻 
 </br>
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plants 🌱
-
+</br>
 </br>
 <p align = "center" style="color:red">
 <a href="https://www.linkedin.com/in/jessicaolivares/" target="blank"><img style="width:50px;" src="./assets/linkedinblue.png" /></a>&ensp;&ensp;
