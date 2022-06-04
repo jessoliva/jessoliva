@@ -36,7 +36,7 @@ Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plant
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessoliva&layout=compact&theme=nightowl">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=nightowl&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=jessoliva&theme=nightowl&show_icons=true&hide=stars&count_private=true">
 </p>
 
 
