@@ -8,10 +8,9 @@ From Forensic Building Engineer 🏬 &ensp;to Full-Stack Web Developer 💻
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plants 🌱
 </br>
 </br>
-<p align = "center" style="color:red">
 <a href="https://www.linkedin.com/in/jessicaolivares/" target="blank"><img style="width:50px;" src="./assets/linkedinblue.png" /></a>&ensp;&ensp;
 <a href="mailto:jessoliva.g@gmail.com" target="blank"><img style="width:50px;" src="./assets/gmailred.png" /></a>
-</p>
+
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
