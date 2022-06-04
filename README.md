@@ -7,15 +7,18 @@ Hi there, I'm Jess
 Forensic Building Engineer 🏬 &ensp;-->&ensp;Full-Stack Web Developer 💻 
 </br>
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plants 🌱
+
 </br>
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
 <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="18%">
+</h3> 
 
 <h2 align="center">
-Technologies
+✨ Technologies
 </h2>
+
 <p align="center">
 <a href="https://id.heroku.com/login"><img src="https://img.shields.io/badge/heroku-434292?style=flat-square&labelColor=434292&logo=Heroku&logoColor=#430098" /></a>&ensp;
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-233056?style=flat-square&labelColor=233056&logo=node.js&logoColor=#339933" /></a>&ensp;
@@ -26,8 +29,6 @@ Technologies
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-orange?style=flat-square&labelColor=white&logo=mysql&logoColor=#4479A1" /></a>&ensp;
 <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia&logoColor=4000BF" /></a>&ensp;
 </p>
-
-</h3> 
 
 <h2 align="center">
 📈 GitHub Stats 
