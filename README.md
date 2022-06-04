@@ -4,7 +4,7 @@ Hi there, I'm Jess
 </h2>
 
 <h3 align="center">
-Forensic Building Engineer 🏬 &ensp;-->&ensp;Full-Stack Web Developer 💻 
+From Forensic Building Engineer 🏬 &ensp;to Full-Stack Web Developer 💻 
 </br>
 Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plants 🌱
 
