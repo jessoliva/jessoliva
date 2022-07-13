@@ -1,6 +1,6 @@
 <h2 align="center">
 Hi there, I'm Jess
- <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/hi.gif" width="4%">
+ <img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/hi.gif" width="20px">
 </h2>
 <h3 align="center">
 From Forensic Building Engineer 🏬 &ensp;to Full-Stack Web Developer 💻 
@@ -11,10 +11,10 @@ Weightlifter 🏋🏽‍♀️ &ensp;|&ensp;Fond of learning, animals, and plant
 <a href="https://www.linkedin.com/in/jessicaolivares/" target="blank"><img style="width:50px;" src="./assets/linkedinblue.png" /></a>&ensp;&ensp;
 <a href="mailto:jessoliva.g@gmail.com" target="blank"><img style="width:50px;" src="./assets/gmailred.png" /></a>
 </br>
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="15%">
-<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="18%">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant.gif" width="80px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant6.gif" width="80px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant2.gif" width="80px">
+<img src="https://raw.githubusercontent.com/jessoliva/jessoliva/main/assets/plant5.gif" width="100px">
 </h3> 
 
 <h2 align="center">
